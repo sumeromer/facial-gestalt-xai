@@ -1,6 +1,13 @@
 # pretrained model weights
 code/models/weights/VGGFace2_pretrained_models/*
 
+code/metadata/annotated-hpo-terms/
+code/metadata/facedet.csv
+code/metadata/image-urls-incomplete.csv
+code/metadata/partitions.csv
+code/metadata/related_samples.csv
+
+
 # results folder (finetuned phenotyping models)
 code/results/*
 
