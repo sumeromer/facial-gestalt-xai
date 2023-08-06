@@ -7,7 +7,7 @@ This repository contains official implementation of our MLHC'23 paper.
 > Ömer Sümer, Rebekah L. Waikel, Suzanna E. Ledgister Hanchard, Dat Duong, Cristina Conati, Peter Krawitz, Benjamin D. Solomon, and Elisabeth André, "Region-based Saliency Explanations on the Recognition of Facial Genetic Syndromes," Machine Learning for Healthcare, 2023.
 
 You can access the metadata files to reproduce the database used in this study:
-NIH Facial Genetic Syndromes Database [(Zenodo dataset link)](http://doi.org/10.5281/zenodo.8113907)
+NIH Facial Genetic Syndromes Database [(Zenodo dataset link)]([http://doi.org/10.5281/zenodo.8113907](https://doi.org/10.5281/zenodo.8113906))
 
 ## Environment
 
