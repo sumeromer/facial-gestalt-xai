@@ -23,7 +23,8 @@ Tested in Ubuntu 22.04 OS using Python 3.9.16 in a Conda environment.
 
 We used VGG Face-2 pretrained ResNet weights for initialization and ResNet-50 architecture [(link)](https://github.com/cydonia999/VGGFace2-pytorch)
 
-Reference paper: ZQ. Cao, L. Shen, W. Xie, O. M. Parkhi, A. Zisserman, VGGFace2: A dataset for recognising faces across pose and age, 2018.
+Reference paper:  
+ZQ. Cao, L. Shen, W. Xie, O. M. Parkhi, A. Zisserman, VGGFace2: A dataset for recognising faces across pose and age, 2018. [(link)](https://www.robots.ox.ac.uk/~vgg/publications/2018/Cao18/cao18.pdf)
 
 * Download VGGFace2 pretrained ResNet50 weights to the following directory: ```/models/weights/resnet50_ft_weight.pkl```  
    **Repository:** https://github.com/cydonia999/VGGFace2-pytorch \
